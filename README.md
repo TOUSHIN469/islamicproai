@@ -39,7 +39,6 @@ No VC. No team. Just code.
 **Hussain Ahmed Toushin**  
 System Architect & Security Researcher
 
-- Bug Bounty: [Bugcrowd](https://bugcrowd.com/h/0xOx) • [Intigriti](https://app.intigriti.com/profile/toushin)
 - Agency: CyberTrace Labs BD
 
 ---
@@ -50,10 +49,7 @@ Have questions, partnership ideas, or found a security issue?
 **Email:** toushin469@gmail.com  
 **Founder:** Hussain Ahmed Toushin  
 **Agency:** CyberTrace Labs BD  
-**Bug Bounty:** [Bugcrowd](https://bugcrowd.com/h/0xOx) • [Intigriti](https://app.intigriti.com/profile/toushin)
 
 We reply within 24 hours.
-
 ---
-
 ### Built for the Ummah. Secured by us.
