@@ -13,7 +13,7 @@
    https://github.com/CyberTraceLabs/islamicproai-security/blob/main/Business%20Logic%20Flaw%20%E2%80%93%20Duplicate%20Transaction%20ID%20Abuse%20%26%20Admin%20Dashboard%20Overload.md
 
 5. **Broken Access Control – Cross-User Conversation Access (IDOR)**  
-    https://github.com/CyberTraceLabs/islamicproai-security/blob/main/Broken%20Access%20Control%20bug%20write%20up%20and%20fix.md](https://github.com/CyberTraceLabs/islamicproai-security/blob/main/Broken%20Access%20Control%20%E2%80%93%20Cross-User%20Conversation%20Access%20IDOR.md
+   https://github.com/CyberTraceLabs/islamicproai-security/blob/main/Broken%20Access%20Control%20%E2%80%93%20Cross-User%20Conversation%20Access%20IDOR.md
 
 6. **Broken Access Control – Chat Session Hijacking (IDOR)**  
    https://github.com/CyberTraceLabs/islamicproai-security/blob/main/Broken%20Access%20Control%20%E2%80%93%20Chat%20Session%20Hijacking%20(IDOR).md
