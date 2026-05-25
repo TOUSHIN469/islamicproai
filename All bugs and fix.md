@@ -1,6 +1,6 @@
-1.  RATE LIMIT BUG AND FIX 
+##1.  RATE LIMIT BUG AND FIX 
 
-     ## https://github.com/CyberTraceLabs/islamicproai-security/blob/main/rate%20limits%20bug%20%20fix%20and%20detail%20write%20up.md
+## https://github.com/CyberTraceLabs/islamicproai-security/blob/main/rate%20limits%20bug%20%20fix%20and%20detail%20write%20up.md
 
 
 2.Privilege Escalation bug and fix
