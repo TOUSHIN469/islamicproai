@@ -25,7 +25,7 @@ Initial security review completed internally.
 
 -  vulnerabilities identified and remediated
 - Tested with Burp Suite, OWASP ZAP, manual testing
-- Full report: [github.com/CyberTrace-Labs-BD/islamicproai-security](https://github.com/CyberTrace-Labs-BD/islamicproai-security)
+- Full report: https://github.com/CyberTraceLabs/islamicproai-security
 - **Status:** Open for independent third-party audit
 
 ## Founder
